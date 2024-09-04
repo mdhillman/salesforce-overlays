@@ -3,6 +3,7 @@
     "oceania ": ["core", "oceania"],
     "eurasia ": ["core", "eurasia"],
     "eastasia": ["core", "eastasia"],
-    "core": ["core"]
+    "core": ["core"],
+    "asia": ["core", "eurasia", "eastasia"]
   }
 }
