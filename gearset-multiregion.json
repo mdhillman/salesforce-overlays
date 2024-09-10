@@ -4,6 +4,7 @@
     "eurasia ": ["core", "eurasia"],
     "eastasia": ["core", "eastasia"],
     "core": ["core"],
-    "asia": ["core", "eurasia", "eastasia"]
+    "all of asia": ["core", "eurasia", "eastasia"],
+    "atlantis": ["core", "atlantis"]
   }
 }
