@@ -27,6 +27,10 @@
     "testone": [
       "core",
       "testone"
+    ],
+    "test-two": [
+      "core",
+      "test-two"
     ]
   }
 }
