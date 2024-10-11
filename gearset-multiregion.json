@@ -23,6 +23,10 @@
     "japan": [
       "core",
       "japan"
+    ],
+    "testone": [
+      "core",
+      "testone"
     ]
   }
 }
