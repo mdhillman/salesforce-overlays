@@ -35,6 +35,10 @@
     "chocolate": [
       "core",
       "chocolate"
+    ],
+    "melons": [
+      "core",
+      "melons"
     ]
   }
 }
