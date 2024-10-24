@@ -14,31 +14,6 @@
     ],
     "core": [
       "core"
-    ],
-    "all of asia": [
-      "core",
-      "eurasia",
-      "eastasia"
-    ],
-    "japan": [
-      "core",
-      "japan"
-    ],
-    "testone": [
-      "core",
-      "testone"
-    ],
-    "test-two": [
-      "core",
-      "test-two"
-    ],
-    "chocolate": [
-      "core",
-      "chocolate"
-    ],
-    "melons": [
-      "core",
-      "melons"
     ]
   }
 }
