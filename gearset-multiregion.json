@@ -15,13 +15,17 @@
     "core": [
       "core"
     ],
-	"global defense initiative": [
+    "global defense initiative": [
       "core",
       "global-defense-initiative"
     ],
-	"brotherhood of nod": [
+    "brotherhood of nod": [
       "core",
       "brotherhood-of-nod"
+    ],
+    "apples": [
+      "core",
+      "apples"
     ]
   }
 }
