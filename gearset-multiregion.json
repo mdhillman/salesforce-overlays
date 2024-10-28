@@ -26,6 +26,10 @@
     "apples": [
       "core",
       "apples"
+    ],
+    "banana": [
+      "core",
+      "banana"
     ]
   }
 }
