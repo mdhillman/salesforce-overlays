@@ -1,10 +1,10 @@
 {
   "overlays": {
-    "oceania ": [
+    "oceania": [
       "core",
       "oceania"
     ],
-    "eurasia ": [
+    "eurasia": [
       "core",
       "eurasia"
     ],
