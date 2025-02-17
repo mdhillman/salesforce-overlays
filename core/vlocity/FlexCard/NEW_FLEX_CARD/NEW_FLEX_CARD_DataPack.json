@@ -1,0 +1,31 @@
+{
+    "AuthorName": "Gearset",
+    "ClonedFromOmniUiCardKey": "",
+    "DataSourceConfig": {
+        "dataSource": {
+            "contextVariables": [
+            ],
+            "orderBy": {
+            },
+            "type": null,
+            "value": {
+            }
+        }
+    },
+    "Description": "",
+    "IsManagedUsingStdDesigner": false,
+    "IsTrackingEnabled": false,
+    "Name": "NEW_FLEX_CARD",
+    "Namespace": "",
+    "OmniUiCardKey": "NEW_FLEX_CARD/Gearset/1.0",
+    "OmniUiCardType": "Parent",
+    "OverrideKey": "",
+    "PropertySetConfig": "NEW_FLEX_CARD.json",
+    "SampleDataSourceResponse": "",
+    "StylingConfiguration": "",
+    "UniqueName": "NEW_FLEX_CARD_Gearset_1",
+    "VersionNumber": 1,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniUiCard",
+    "VlocityRecordSourceKey": "OmniUiCard/NEW_FLEX_CARD"
+}
