@@ -1,0 +1,14 @@
+{
+    "DecisionMatrixType": "DecisionTable",
+    "Description": "Sample for testing.",
+    "GroupKey": "",
+    "Name": "MyDecisionTable",
+    "Namespace": "",
+    "SubGroupKey": "",
+    "Type": "",
+    "UniqueName": "MyDecisionTable",
+    "UsageType": "",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "CalculationMatrix",
+    "VlocityRecordSourceKey": "CalculationMatrix/MyDecisionTable"
+}
